@@ -1,1 +1,2 @@
 Git is a version vontrol system.No way.HAH
+Creating a new branch is quick & simple.
